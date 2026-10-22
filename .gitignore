@@ -3,9 +3,12 @@
 .coverage.*
 .mypy_cache/
 __pycache__/
+temp_auto_push.bat
 uvicorn.egg-info/
 venv/
 htmlcov/
 site/
 dist/
 .codspeed/
+.gitignore
+branch_structure.json
